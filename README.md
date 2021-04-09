@@ -26,8 +26,8 @@ Detudo
 ## Getting started
 
 <div aling="center">
-1. Clone this repo using <a href="#"> git@github.com:matheus-mmd/Detudo.git</a> <br>
-2. Move yourself to the appropriate directory: <a href="#"> cd Detudo</a><br>
+1. Clone this repo using 'git clone git@github.com:matheus-mmd/Detudo.git' <br>
+2. Move yourself to the appropriate directory: 'cd Detudo'<br>
 
 </div>
 
